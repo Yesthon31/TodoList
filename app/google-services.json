@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537396061775",
+    "project_id": "buditodolist-78b3f",
+    "storage_bucket": "buditodolist-78b3f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537396061775:android:c177bd08c12ed9d027ec3a",
+        "android_client_info": {
+          "package_name": "com.yesthonbruce.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG7Y1D_-7O2HJVJ3eAGvy1pkBgyrpxeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
